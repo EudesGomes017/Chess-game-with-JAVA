@@ -5,7 +5,7 @@
  Encapsulamento
  Construtores
  ToString (objeto / substituindo)
- Polimorfismo
- Herança
- Arrays
+ Polimorfismo,
+ Herança,
+ Arrays.
  
